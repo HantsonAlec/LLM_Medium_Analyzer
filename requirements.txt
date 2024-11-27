@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-pinecone
+python-dotenv
+langchainhub
+black
+langchain-ollama
